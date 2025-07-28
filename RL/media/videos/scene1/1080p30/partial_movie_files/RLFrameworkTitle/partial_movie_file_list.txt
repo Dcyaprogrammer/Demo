@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/dopamine/demo/RL/media/videos/scene1/1080p30/partial_movie_files/RLFrameworkTitle/2339662841_3553620209_223132457.mp4'
-file 'file:/Users/dopamine/demo/RL/media/videos/scene1/1080p30/partial_movie_files/RLFrameworkTitle/2533608942_310540274_1516956129.mp4'
-file 'file:/Users/dopamine/demo/RL/media/videos/scene1/1080p30/partial_movie_files/RLFrameworkTitle/2533608942_2449405511_2229023353.mp4'
